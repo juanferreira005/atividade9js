@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#notifications {
+    color: red;
+    font-weight: bold;
+}
+
+.task-completed {
+    text-decoration: line-through;
+}
